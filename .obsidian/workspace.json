@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lookup/writeup.md",
+                "file": "Wgel CTF/Writeup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "writeup"
+              "title": "Writeup"
             }
           }
         ]
@@ -168,18 +168,24 @@
   },
   "active": "327db9ba3be9b26b",
   "lastOpenFiles": [
-    "Lookup/files/rootflag.png",
-    "Lookup/files/sshkey.png",
-    "Lookup/files/look.png",
-    "Lookup/files/canExecuteWithSudo.png",
-    "Lookup/files/userflag.png",
-    "Lookup/files/hydra_jose_ssh.png",
+    "Wgel CTF/file/rootflag.png",
+    "Wgel CTF/file/wget.png",
+    "Wgel CTF/file/sudo.png",
+    "Wgel CTF/file/userflag.png",
+    "Wgel CTF/file/ssh.png",
+    "Wgel CTF/file/gobuster_sitemap.png",
+    "Wgel CTF/file/sitemap.png",
+    "Wgel CTF/file/gobuster.png",
+    "Wgel CTF/file/jessie.png",
+    "Wgel CTF/file/web.png",
+    "Wgel CTF/file/nmap.png",
+    "Wgel CTF/file/sshkey",
+    "Lian_Yu/writeup.md",
+    "Wgel CTF/Writeup.md",
+    "cat pictures/write up.md",
     "Lookup/writeup.md",
-    "Lookup/files/mdpForThink.png",
-    "Lookup/files/valide_username.png",
-    "Lookup/files/userlist.png",
-    "Lookup/files/shell1.png",
-    "Lookup/files/web.png",
+    "Wgel CTF/file",
+    "Wgel CTF",
     "Lookup/files/cle_ssh-root",
     "Lookup/files/password.txt",
     "Lookup/files/username_checker.py",
