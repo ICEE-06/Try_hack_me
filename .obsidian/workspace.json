@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wgel CTF/Writeup.md",
+                "file": "publisher/writeup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writeup"
+              "title": "writeup"
             }
           }
         ]
@@ -168,29 +168,36 @@
   },
   "active": "327db9ba3be9b26b",
   "lastOpenFiles": [
-    "Wgel CTF/file/rootflag.png",
-    "Wgel CTF/file/wget.png",
-    "Wgel CTF/file/sudo.png",
-    "Wgel CTF/file/userflag.png",
-    "Wgel CTF/file/ssh.png",
-    "Wgel CTF/file/gobuster_sitemap.png",
-    "Wgel CTF/file/sitemap.png",
-    "Wgel CTF/file/gobuster.png",
-    "Wgel CTF/file/jessie.png",
-    "Wgel CTF/file/web.png",
-    "Wgel CTF/file/nmap.png",
-    "Wgel CTF/file/sshkey",
-    "Lian_Yu/writeup.md",
-    "Wgel CTF/Writeup.md",
-    "cat pictures/write up.md",
+    "publisher/file/permAppArmor.png",
+    "publisher/file/apparmor.png",
+    "publisher/file/RCE.png",
+    "publisher/file/container.png",
+    "publisher/writeup.md",
+    "publisher/file/think_ssh.png",
+    "publisher/file/burp.png",
+    "publisher/file/hint.png",
+    "publisher/file/SUID.png",
+    "publisher/file/user_flag.png",
     "Lookup/writeup.md",
-    "Wgel CTF/file",
-    "Wgel CTF",
-    "Lookup/files/cle_ssh-root",
-    "Lookup/files/password.txt",
-    "Lookup/files/username_checker.py",
-    "Lookup/Untitled",
-    "Lookup/files",
-    "Lookup"
+    "publisher/file/key_ssh",
+    "publisher/file/CVE-2023-27372.py",
+    "publisher/file/51536.py",
+    "Soupedecode 01/writeup.md",
+    "Tech-SuppOrt/writeup.md",
+    "publisher/file/whatweb.png",
+    "publisher/file/ffuf.png",
+    "Billing/writeup.md",
+    "publisher/file",
+    "publisher",
+    "Wgel CTF/Writeup.md",
+    "Billing/file",
+    "Billing",
+    "fortress/Writeup.md",
+    "fortress/file/decode.py",
+    "fortress/file/output.py",
+    "fortress/file/marked.txt",
+    "Dear QA/write up.md",
+    "Lian_Yu/writeup.md",
+    "cat pictures/write up.md"
   ]
 }
