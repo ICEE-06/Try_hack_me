@@ -1,0 +1,2 @@
+python3 exploit.py http://10.82.128.232/ --dump_all
+
